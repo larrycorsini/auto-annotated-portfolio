@@ -40,6 +40,8 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
+    text: |
+      Hello
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
