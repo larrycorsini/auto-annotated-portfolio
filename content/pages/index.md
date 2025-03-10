@@ -11,7 +11,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: >-
       Hey, I’m Larry Corsini.I’m a Network Administrator with a passion for
       cybersecurity, homelabs, and building resilient infrastructure. My
