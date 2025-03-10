@@ -19,9 +19,9 @@ sections:
       development, and I’m always exploring new ways to optimize and secure
       systems.
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      This site is where I showcase my projects, certifications, and experience.
+      Whether you're here to check out my homelab setup, view my resume, or
+      collaborate on a cool project—welcome!
     styles:
       self:
         height: auto
