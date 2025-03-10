@@ -12,12 +12,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      Hey, I’m Larry Corsini. I’m a Network Administrator with a passion for
-      cybersecurity, homelabs, and building resilient infrastructure. My
-      background includes network design, system administration, and web
-      development, and I’m always exploring new ways to optimize and secure
-      systems.
+    title: Larry Corsini – Network Administrator
     subtitle: >-
       This site is where I showcase my projects, certifications, and experience.
       Whether you're here to check out my homelab setup, view my resume, or
