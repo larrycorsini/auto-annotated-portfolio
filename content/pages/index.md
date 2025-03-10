@@ -13,7 +13,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      Hey, I’m Larry Corsini.I’m a Network Administrator with a passion for
+      Hey, I’m Larry Corsini. I’m a Network Administrator with a passion for
       cybersecurity, homelabs, and building resilient infrastructure. My
       background includes network design, system administration, and web
       development, and I’m always exploring new ways to optimize and secure
