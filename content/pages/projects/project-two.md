@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Homelab Infrastructure
+title: Proxmox VE-Based Home Lab
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
