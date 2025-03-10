@@ -6,7 +6,9 @@ date: '2021-12-20'
 client: Virtualized Networking and Security Lab
 description: >-
   Designed and implemented a Proxmox-based lab with secure network segmentation,
-  OPNsense firewall/router, and centralized monitoring.
+  OPNsense firewall/router, and centralized monitoring. Integrated tools like
+  Pi-hole, Prometheus, and Grafana to optimize performance and system
+  monitoring.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
