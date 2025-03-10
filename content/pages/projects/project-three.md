@@ -6,7 +6,8 @@ date: '2022-01-22'
 client: Self-Hosted Media Server Deployment
 description: >-
   Deployed a Jellyfin media server in a Docker container, configuring networking
-  and port forwarding for secure remote access.
+  and port forwarding for secure remote access. Automated media organization and
+  metadata retrieval for an enhanced user experience.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
