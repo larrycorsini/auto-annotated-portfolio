@@ -13,10 +13,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Larry Corsini – Network Administrator
-    subtitle: >-
-      This site is where I showcase my projects, certifications, and experience.
-      Whether you're here to check out my homelab setup, view my resume, or
-      collaborate on a cool project—welcome!
+    subtitle: Leveraging Expertise in Network Administration and Security
     styles:
       self:
         height: auto
