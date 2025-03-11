@@ -52,15 +52,15 @@
             },
             {
                 "type": "Link",
-                "label": "Resume",
-                "url": "/resume",
-                "altText": "Resume"
-            },
-            {
-                "type": "Link",
                 "label": "Projects",
                 "url": "/projects",
                 "altText": "Netlify templates"
+            },
+            {
+                "type": "Link",
+                "label": "Resume",
+                "url": "/resume",
+                "altText": "Resume"
             },
             {
                 "type": "Link",
