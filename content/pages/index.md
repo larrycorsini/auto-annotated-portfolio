@@ -69,40 +69,22 @@ sections:
           - pr-4
         textAlign: left
     subtitle: Projects
-  - type: ContactSection
-    title: Contact Me
-    text: ''
-    form:
-      type: FormBlock
-      title: Title of the form
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          width: 1/2
-          isRequired: 'true'
-        - type: EmailFormControl
-          name: email
-          label: Name
-          hideLabel: true
-          placeholder: Your email
-          width: 1/2
-          isRequired: 'true'
-        - type: TextareaFormControl
-          name: message
-          label: Type your message here...
-          hideLabel: true
-          placeholder: Type your message here...
-          width: full
-          isRequired: true
-      submitLabel: Send Message
-      elementId: contact-form
-      styles:
-        self:
-          textAlign: center
-    colors: colors-b
+  - type: CtaSection
+    title: Let's do this
+    text: >-
+      The Stackbit theme is flexible and scalable to every need. It can manage
+      any layout and any screen.
+    actions:
+      - type: Button
+        label: Try it now
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-c
     backgroundSize: full
     elementId: ''
     styles:
@@ -111,10 +93,10 @@ sections:
         width: narrow
         padding:
           - pt-28
-          - pb-36
+          - pb-28
           - pl-4
           - pr-4
-        flexDirection: row
+        flexDirection: col
         textAlign: center
 socialImage: /images/android-chrome-512x512.png
 ---
