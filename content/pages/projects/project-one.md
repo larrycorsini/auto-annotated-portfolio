@@ -12,7 +12,7 @@ description: >-
   my devices and OPNsense while maintaining network privacy.
 featuredImage:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/cloudflareOPNsense.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
