@@ -1,11 +1,13 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: Docker-Based Media Server
 colors: colors-a
 date: '2022-01-22'
-client: Awesome client
+client: Self-Hosted Media Server Deployment
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  Deployed a Jellyfin media server in a Docker container, configuring networking
+  and port forwarding for secure remote access. Automated media organization and
+  metadata retrieval for an enhanced user experience.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg

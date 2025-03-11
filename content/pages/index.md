@@ -12,13 +12,16 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+    title: 'Hi, I''m Larry Corsini'
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      – a Network Administrator, aspiring cybersecurity expert, and tech
+      enthusiast based in Orem, Utah. With a degree in IT (Network
+      Administration & Security), I’ve gained hands-on experience in
+      virtualization, security, and system administration through my personal
+      and professional projects. I thrive on problem-solving, optimizing
+      networks, and building scalable systems. I’m constantly learning and
+      improving my skills in network infrastructure, cybersecurity, and cloud
+      technologies. Let's connect and explore opportunities to collaborate!
     styles:
       self:
         height: auto
@@ -37,6 +40,9 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
+    text: |+
+
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
@@ -94,7 +100,7 @@ sections:
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
+    title: "Want to send me a message?! ...\U0001F4AC"
     form:
       type: FormBlock
       elementId: sign-up-form
@@ -120,18 +126,6 @@ sections:
           isRequired: true
           width: 1/2
           type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
       submitLabel: "Submit \U0001F680"
       styles:
         self:
