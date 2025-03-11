@@ -10,7 +10,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-c
     backgroundSize: full
     title: 'Hi, I''m Larry Corsini'
     subtitle: >-
