@@ -89,5 +89,6 @@
                 ]
             }
         }
-    }
+    },
+    "defaultSocialImage": "/images/android-chrome-512x512.png"
 }
