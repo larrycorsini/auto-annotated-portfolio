@@ -103,7 +103,7 @@ sections:
       styles:
         self:
           textAlign: center
-    colors: colors-b
+    colors: colors-d
     backgroundSize: full
     elementId: ''
     styles:
