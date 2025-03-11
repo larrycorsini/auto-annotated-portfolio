@@ -14,13 +14,13 @@ sections:
     backgroundSize: full
     title: 'Network Administrator, aspiring cybersecurity expert, and tech enthusiast'
     subtitle: >-
-      – Based in Orem, Utah. With a degree in IT (Network Administration &
-      Security), I’ve gained hands-on experience in virtualization, security,
-      and system administration through my personal and professional projects. I
-      thrive on problem-solving, optimizing networks, and building scalable
-      systems. I’m constantly learning and improving my skills in network
-      infrastructure, cybersecurity, and cloud technologies. Let's connect and
-      explore opportunities to collaborate!
+      – with a degree in IT (Network Administration & Security), I’ve gained
+      hands-on experience in virtualization, security, and system administration
+      through my personal and professional projects. I thrive on
+      problem-solving, optimizing networks, and building scalable systems. I’m
+      constantly learning and improving my skills in network infrastructure,
+      cybersecurity, and cloud technologies. Let's connect and explore
+      opportunities to collaborate!
     styles:
       self:
         height: auto
