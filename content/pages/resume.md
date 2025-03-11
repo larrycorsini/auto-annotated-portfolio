@@ -23,7 +23,7 @@ sections:
         textAlign: left
   - type: LabelsSection
     title: ''
-    subtitle: The section subtitle
+    subtitle: The section subtitl
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
