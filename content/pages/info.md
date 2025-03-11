@@ -239,18 +239,25 @@ sections:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          **Utah Valley University**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          *Bachelor of Science in Information Technology - Network
+          Administration and Security Emphasis*
 
-          * react certificate somewhere
 
-          **2011**
+          **Aug. 2020 - May 2024**
 
-          * my highschool
+
+          ****
+
+
+          *Associate of Applied Science in Information Systems / Technology*
+
+
+          **Aug. 2020 - May 2022**
+
         styles:
           self:
             textAlign: left
