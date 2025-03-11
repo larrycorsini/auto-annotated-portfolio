@@ -4,7 +4,7 @@
     "lastName": "Corsini",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/about.jpg",
+        "url": "/images/about1.jpg",
         "altText": "Doris Soto photo"
     }
 }
