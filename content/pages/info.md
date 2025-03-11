@@ -51,7 +51,7 @@ sections:
       - type: ImageBlock
         url: /images/NS-icon-white.png
         altText: Natures Sunshine
-        caption: Logo one
+        caption: Natures Sunshine
     spacing: 3
     columns: 5
     aspectRatio: auto
