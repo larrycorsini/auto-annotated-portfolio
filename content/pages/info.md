@@ -156,7 +156,7 @@ sections:
       - type: Label
         label: Network Monitoring & Troubleshooting
       - type: Label
-        label: C++
+        label: Automation & Scripting
       - type: Label
         label: Swift
   - type: DividerSection
