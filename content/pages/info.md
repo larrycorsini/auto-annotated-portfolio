@@ -2,22 +2,16 @@
 type: PageLayout
 title: About
 colors: colors-a
-backgroundImage:
-  type: BackgroundImage
-  url: /images/bg4.jpg
-  backgroundSize: cover
-  backgroundPosition: center
-  backgroundRepeat: no-repeat
-  opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
-    backgroundSize: full
+    colors: colors-e
+    backgroundSize: inset
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      # Hey I’m a Network Administrator with a B.Sc. in IT (Network
+      Administration & Security) and hands-on experience in virtualization,
+      network design, and security via Proxmox VE and OPNsense homelabs. Skilled
+      in customer service, training, and mentoring, with fluency in English and
+      Spanish.
 
     media:
       type: ImageBlock
@@ -51,34 +45,19 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: MediaGallerySection
-    colors: colors-f
+    colors: colors-a
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
+        url: /images/NS-logo-primary-white.png
+        altText: Natures Sunshine
+        caption: Natures Sunshine
+        elementId: ''
     spacing: 3
     columns: 5
     aspectRatio: auto
     showCaption: false
-    enableHover: false
+    enableHover: true
     styles:
       self:
         width: wide
@@ -107,40 +86,8 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
+            url: 'https://www.linkedin.com/in/larrycorsini/'
         styles:
           self:
             textAlign: left
@@ -148,10 +95,27 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.instagram.com/larry_leaper/'
         styles:
           self:
             textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Link
+            label: YouTube
+            altText: ''
+            url: 'https://www.youtube.com/@Brighton_Bums'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
     columns: 3
     spacingX: 120
     spacingY: 16
@@ -180,21 +144,21 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Networking Protocols & Infrastructure
       - type: Label
-        label: React
+        label: Routing & Switching
       - type: Label
-        label: Microsoft Office
+        label: Firewall & Security Management
       - type: Label
-        label: Next.js
+        label: Server Administration
       - type: Label
-        label: Netlify
+        label: Virtualization & Cloud Services
       - type: Label
-        label: Pancakes
+        label: Network Monitoring & Troubleshooting
       - type: Label
-        label: C++
+        label: Automation & Scripting
       - type: Label
-        label: Swift
+        label: Problem-Solving & Collaboration
   - type: DividerSection
     styles:
       self:
@@ -211,7 +175,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      <email@larrycorsini.com>
   - type: DividerSection
     styles:
       self:
