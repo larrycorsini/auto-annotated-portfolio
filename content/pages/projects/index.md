@@ -18,7 +18,7 @@ projectFeed:
         - pl-4
         - pr-4
         - pb-12
-  title: hi
+  title: ''
 topSections:
   - type: HeroSection
     title: Projects
