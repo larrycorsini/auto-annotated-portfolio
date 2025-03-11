@@ -289,7 +289,7 @@ sections:
       styles:
         self:
           textAlign: center
-    colors: colors-f
+    colors: colors-a
     backgroundSize: full
     elementId: ''
     styles:
