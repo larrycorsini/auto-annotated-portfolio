@@ -5,8 +5,11 @@ colors: colors-a
 date: '2025-02-15'
 client: Secure Remote Network Access
 description: >-
-  Configured OpenVPN on OPNsense for secure remote access to my homelab,
-  ensuring data security through VPN tunneling and encryption.
+  In this project, I used Cloudflare Tunnel to securely access OPNsense,
+  bypassing traditional VPN solutions. The goal was to establish secure remote
+  network access to my homelab without exposing sensitive infrastructure to the
+  public internet. The Cloudflare Tunnel ensures encrypted communication between
+  my devices and OPNsense while maintaining network privacy.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
