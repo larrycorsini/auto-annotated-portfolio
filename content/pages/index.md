@@ -52,7 +52,7 @@ sections:
     actions:
       - type: Button
         label: View My Resume
-        altText: resume
+        altText: View My Resume
         url: /resume
         showIcon: true
         icon: arrowRight
