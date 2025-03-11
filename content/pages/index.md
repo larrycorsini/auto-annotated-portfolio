@@ -72,8 +72,7 @@ sections:
     subtitle: Projects
   - type: ContactSection
     title: Contact Me
-    text: |
-      Thanks for contacting me.
+    text: ''
     form:
       type: FormBlock
       title: Title of the form
