@@ -31,47 +31,37 @@ sections:
           - pr-4
         flexDirection: row
         textAlign: left
-  - type: MediaGallerySection
-    title: Gallery
-    subtitle: This is the subtitle
-    images:
-      - type: ImageBlock
-        url: /images/gallery-1.jpg
-        altText: Image one
-        caption: Image one caption
+  - type: FeaturedProjectsSection
+    subtitle: 'Projects:'
+    actions:
+      - type: Link
+        label: See all projects
+        altText: See all projects
+        url: /projects
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
         elementId: ''
-      - type: ImageBlock
-        url: /images/gallery-2.jpg
-        altText: Image two
-        caption: Image two caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/gallery-3.jpg
-        altText: Image three
-        caption: Image three caption
-        elementId: ''
-      - type: ImageBlock
-        url: /images/gallery-4.jpg
-        altText: Image four
-        caption: Image four caption
-        elementId: ''
+    projects:
+      - content/pages/projects/project-one.md
+      - content/pages/projects/project-two.md
     colors: colors-c
-    spacing: 16
-    columns: 2
-    aspectRatio: '1:1'
-    showCaption: false
-    enableHover: false
+    variant: variant-a
     elementId: ''
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
     styles:
       self:
         height: auto
-        width: narrow
+        width: wide
         padding:
-          - pt-12
-          - pb-12
+          - pt-24
+          - pb-24
           - pl-4
           - pr-4
-        textAlign: center
+        textAlign: left
 addTitleSuffix: true
 colors: colors-b
 ---
