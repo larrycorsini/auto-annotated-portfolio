@@ -43,7 +43,7 @@ sections:
     text: |+
 
 
-  - colors: colors-e
+  - colors: colors-b
     type: FeaturedProjectsSection
     elementId: ''
     actions:
