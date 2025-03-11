@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/android-chrome-512x512.png",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
@@ -63,32 +63,21 @@
             },
             {
                 "type": "Link",
+                "label": "Projects",
+                "url": "/projects",
+                "altText": "Netlify templates"
+            },
+            {
+                "type": "Link",
                 "label": "Linked",
                 "url": "https://www.linkedin.com/in/larrycorsini/",
                 "altText": "LinkedIn",
                 "showIcon": true,
                 "icon": "linkedin",
                 "iconPosition": "right"
-            },
-            {
-                "type": "Link",
-                "label": "Projects",
-                "url": "/projects",
-                "altText": "Netlify templates"
             }
         ],
-        "contacts": {
-            "type": "ContactBlock",
-            "title": "Contact details",
-            "phoneNumber": "850-123-5021",
-            "phoneAltText": "Phone",
-            "email": "john@doe.com",
-            "emailAltText": "Email",
-            "address": "312 Lovely Street, NY",
-            "addressAltText": "Address",
-            "elementId": ""
-        },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
+        "copyrightText": "Fueled by <span style=\"color:brown\">coffee</span> | Powered by [Netlify](https://www.netlify.com/)\n",
         "styles": {
             "self": {
                 "width": "narrow",
@@ -100,5 +89,6 @@
                 ]
             }
         }
-    }
+    },
+    "defaultSocialImage": "/images/android-chrome-512x512.png"
 }
