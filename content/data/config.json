@@ -77,7 +77,7 @@
                 "iconPosition": "right"
             }
         ],
-        "copyrightText": "Fueled by <span style=\"color:brown\">some \\*Coffee\\* text</span>. | Powered by [Netlify](https://www.netlify.com/)\n",
+        "copyrightText": "Fueled by Coffee | Powered by [Netlify](https://www.netlify.com/)\n",
         "styles": {
             "self": {
                 "width": "narrow",
