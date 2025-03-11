@@ -13,7 +13,7 @@ sections:
       my resume</p>
 
     actions: []
-    colors: colors-a
+    colors: colors-f
     backgroundSize: inset
     elementId: ''
     styles:
