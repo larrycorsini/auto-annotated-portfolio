@@ -11,7 +11,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-c
-    backgroundSize: full
+    backgroundSize: inset
     title: 'Network Administrator, aspiring cybersecurity expert, and tech enthusiast'
     subtitle: >-
       – with a degree in IT (Network Administration & Security), I’ve gained
