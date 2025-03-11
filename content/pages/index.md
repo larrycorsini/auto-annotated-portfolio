@@ -78,7 +78,7 @@ sections:
 
     actions:
       - type: Button
-        label: Try it now
+        label: View My Resume
         altText: ''
         url: /
         showIcon: true
