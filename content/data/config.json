@@ -63,18 +63,18 @@
             },
             {
                 "type": "Link",
+                "label": "Projects",
+                "url": "/projects",
+                "altText": "Netlify templates"
+            },
+            {
+                "type": "Link",
                 "label": "Linked",
                 "url": "https://www.linkedin.com/in/larrycorsini/",
                 "altText": "LinkedIn",
                 "showIcon": true,
                 "icon": "linkedin",
                 "iconPosition": "right"
-            },
-            {
-                "type": "Link",
-                "label": "Projects",
-                "url": "/projects",
-                "altText": "Netlify templates"
             }
         ],
         "copyrightText": "Powered by [Netlify](https://www.netlify.com/)",
