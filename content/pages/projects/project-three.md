@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Docker-Based Media Server
 colors: colors-a
-date: '2022-01-22'
+date: '2025-02-01'
 client: Self-Hosted Media Server Deployment
 description: >-
   Deployed a Jellyfin media server in a Docker container, configuring networking
@@ -10,11 +10,11 @@ description: >-
   metadata retrieval for an enhanced user experience.
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Artboard-1.webp
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Artboard-1.webp
   altText: Project image
 ---
 
