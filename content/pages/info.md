@@ -150,7 +150,7 @@ sections:
       - type: Label
         label: Firewall & Security Management
       - type: Label
-        label: Operating Systems & Server Management
+        label: Server Administration
       - type: Label
         label: Virtualization & Cloud Services
       - type: Label
