@@ -70,7 +70,7 @@ sections:
         textAlign: left
     subtitle: Projects
   - type: CtaSection
-    title: Let's do this
+    title: Explore My Expertise in Network Administration
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage
       any layout and any screen.
