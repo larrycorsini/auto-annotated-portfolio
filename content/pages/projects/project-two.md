@@ -2,50 +2,53 @@
 type: ProjectLayout
 title: Proxmox VE-Based Home Lab
 colors: colors-a
-date: '2021-12-20'
+date: '2025-02-01'
 client: Virtualized Networking and Security Lab
 description: >-
-  Designed and implemented a Proxmox-based lab with secure network segmentation,
-  OPNsense firewall/router, and centralized monitoring. Integrated tools like
-  Pi-hole, Prometheus, and Grafana to optimize performance and system
-  monitoring.
+  This project involved designing and implementing a Proxmox VE-based lab
+  environment with a focus on network segmentation and security. I integrated a
+  series of tools to manage and optimize the network's performance while
+  ensuring a high level of security and monitoring. The core components of the
+  lab included an OPNsense firewall/router and centralized monitoring using
+  Pi-hole, Prometheus, and Grafana.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Proxmox-VE-8-0-Cluster-Summary.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Proxmox-VE-8-0-Cluster-Summary.png
   altText: Project image
-bottomSections:
-  - type: TextSection
-    title: The Section Title
-    text: |+
-      Hi
-
-    colors: colors-f
-    variant: variant-a
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        textAlign: left
+bottomSections: []
 ---
+### **Project Overview:**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+The lab was designed to simulate a secure and optimized network environment, with strict segmentation between different parts of the network to reduce the risk of vulnerabilities. The **OPNsense firewall** was configured as the central point for routing and security, and services like **Pi-hole** were used to enhance network privacy by blocking unwanted content. Additionally, **Prometheus** and **Grafana** were integrated to monitor system performance, ensuring real-time insights into the health of the network.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+### **Key Components:**
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+*   **Proxmox VE** for managing virtualized environments
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   **OPNsense** for firewall and routing management
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+*   **Pi-hole** for network-wide ad-blocking and privacy
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+*   **Prometheus** for system and network monitoring
+
+*   **Grafana** for visualizing system metrics and network performance
+
+*   Network segmentation for enhanced security
+
+### **Outcomes & Impact:**
+
+*   Built a scalable and flexible virtualized network environment
+
+*   Gained practical experience in network security, virtualization, and system monitoring
+
+*   Optimized network performance through centralized monitoring and ad-blocking
+
+*   Ensured network security with proper segmentation and firewall management
+
+*   Created a lab that could evolve to support more complex configurations in the future
+
+This project was an important step in refining my skills in network management, security, and monitoring, helping me create a robust, isolated virtualized lab to test various configurations and network setups.
