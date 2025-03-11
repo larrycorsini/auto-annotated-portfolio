@@ -148,7 +148,7 @@ sections:
       - type: Label
         label: Routing & Switching
       - type: Label
-        label: Microsoft Office
+        label: Firewall & Security Management
       - type: Label
         label: Next.js
       - type: Label
