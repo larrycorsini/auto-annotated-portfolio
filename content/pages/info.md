@@ -250,7 +250,6 @@ sections:
           **Aug. 2020 - May 2024**
 
 
-          **
 
 
           *Associate of Applied Science in Information Systems / Technology*
