@@ -63,7 +63,7 @@
             },
             {
                 "type": "Link",
-                "label": "LinkedIn",
+                "label": "Linked",
                 "url": "https://www.linkedin.com/in/larrycorsini/",
                 "altText": "LinkedIn",
                 "showIcon": true,
