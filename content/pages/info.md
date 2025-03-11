@@ -150,7 +150,7 @@ sections:
       - type: Label
         label: Firewall & Security Management
       - type: Label
-        label: Next.js
+        label: Operating Systems & Server Management
       - type: Label
         label: Netlify
       - type: Label
