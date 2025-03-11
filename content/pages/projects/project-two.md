@@ -19,25 +19,7 @@ media:
   type: ImageBlock
   url: /images/Proxmox-VE-8-0-Cluster-Summary.png
   altText: Project image
-bottomSections:
-  - type: TextSection
-    title: The Section Title
-    text: |+
-      Hi
-
-    colors: colors-f
-    variant: variant-a
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: narrow
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        textAlign: left
+bottomSections: []
 ---
 ### **Project Overview:**
 
