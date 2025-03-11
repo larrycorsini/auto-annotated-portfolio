@@ -44,7 +44,7 @@ sections:
 
   - colors: colors-e
     type: FeaturedProjectsSection
-    elementId: ''
+    elementId: projects
     actions:
       - type: Link
         label: See all projects
