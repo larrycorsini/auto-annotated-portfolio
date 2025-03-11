@@ -5,9 +5,11 @@ colors: colors-a
 date: '2025-02-01'
 client: Self-Hosted Media Server Deployment
 description: >-
-  Deployed a Jellyfin media server in a Docker container, configuring networking
-  and port forwarding for secure remote access. Automated media organization and
-  metadata retrieval for an enhanced user experience.
+  In this project, I deployed a Jellyfin media server within Proxmox VE to
+  manage and stream personal media securely. Instead of relying on third-party
+  services, I created a self-hosted solution that allows for full control over
+  content organization, privacy, and streaming quality. The deployment was done
+  within a virtualized environment for enhanced flexibility and scalability.
 featuredImage:
   type: ImageBlock
   url: >-
