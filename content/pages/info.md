@@ -15,7 +15,6 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
       altText: Larry Corsini pic
       caption: Larry Corsini pic
     styles:
