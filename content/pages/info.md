@@ -158,7 +158,7 @@ sections:
       - type: Label
         label: Automation & Scripting
       - type: Label
-        label: Swift
+        label: Soft Skills
   - type: DividerSection
     styles:
       self:
