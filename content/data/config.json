@@ -73,7 +73,7 @@
             {
                 "type": "Link",
                 "label": "Projects",
-                "url": "",
+                "url": "/projects",
                 "altText": "Netlify templates"
             }
         ],
