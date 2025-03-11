@@ -5,8 +5,15 @@ sections:
   - type: HeroSection
     title: RESUME
     subtitle: ''
-    text: >
-      [![Resume](/images/resume-img.png)](https://docs.google.com/document/d/1r5iTEUh1yH7_5LLFVVpINVvuYnWxt2r1/edit?usp=drive_link&ouid=110867465783915400562&rtpof=true&sd=true)
+    text: >+
+      [![Resume](/images/resume-img.png)](https://docs.google.com/document/d/1r5iTEUh1yH7_5LLFVVpINVvuYnWxt2r1/edit?usp=drive_link\&ouid=110867465783915400562\&rtpof=true\&sd=true)<a
+      href="https\://docs.google.com/document/d/1r5iTEUh1yH7\_5LLFVVpINVvuYnWxt2r1/edit?usp=drive\_link\&ouid=110867465783915400562\&rtpof=true\&sd=true">
+        <img src="stackbit\_asset\_id:static:public/images/resume-img.png" alt="Resume" style="display: block; margin: 0 auto; width: 100%;">
+      </a>
+
+      <p style="text-align: center; font-style: italic;">Click to view my
+      resume</p>
+
     actions: []
     colors: colors-a
     backgroundSize: full
