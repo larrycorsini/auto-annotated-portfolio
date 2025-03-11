@@ -52,6 +52,12 @@ sections:
         url: /images/logo1.svg
         altText: Logo one
         caption: Logo one
+      - type: ImageBlock
+        url: >-
+          https://assets.stackbit.com/components/images/default/default-image.png
+        altText: altText of the image
+        caption: Caption of the image
+        elementId: ''
     spacing: 3
     columns: 5
     aspectRatio: auto
