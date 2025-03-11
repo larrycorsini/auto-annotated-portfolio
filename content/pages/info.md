@@ -50,7 +50,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/NS-icon-white.png
-        altText: Logo one
+        altText: Natures Sunshine
         caption: Logo one
     spacing: 3
     columns: 5
