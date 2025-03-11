@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Docker-Based Media Server
 colors: colors-a
-date: '2022-01-22'
+date: '0002-01-22'
 client: Self-Hosted Media Server Deployment
 description: >-
   Deployed a Jellyfin media server in a Docker container, configuring networking
