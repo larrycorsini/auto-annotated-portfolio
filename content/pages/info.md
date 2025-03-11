@@ -5,7 +5,7 @@ colors: colors-a
 sections:
   - elementId: ''
     colors: colors-e
-    backgroundSize: inset
+    backgroundSize: full
     text: >+
       # Hey I’m a Network Administrator with a B.Sc. in IT (Network
       Administration & Security) and hands-on experience in virtualization,
