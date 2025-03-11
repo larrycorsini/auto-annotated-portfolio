@@ -87,7 +87,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://github.com/'
+            url: 'https://www.linkedin.com/in/larrycorsini/'
         styles:
           self:
             textAlign: left
