@@ -173,7 +173,7 @@ sections:
   - type: TextSection
     variant: variant-a
     subtitle: 'Contact:'
-    colors: colors-f
+    colors: colors-e
     text: |
       <email@larrycorsini.com>
   - type: DividerSection
