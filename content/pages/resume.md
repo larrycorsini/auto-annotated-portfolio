@@ -31,39 +31,6 @@ sections:
           - pr-4
         flexDirection: row
         textAlign: left
-  - type: FeaturedProjectsSection
-    title: ''
-    subtitle: Recent projects
-    actions:
-      - type: Link
-        label: See all projects
-        altText: ''
-        url: /projects
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
-    colors: colors-f
-    variant: variant-b
-    elementId: ''
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        textAlign: left
   - type: RecentPostsSection
     title: ''
     subtitle: Recent posts
