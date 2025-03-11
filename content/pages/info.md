@@ -7,10 +7,12 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >+
-      # Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      # Hey I’m a Network Administrator with a B.Sc. in IT (Network
+      Administration & Security) and hands-on experience in virtualization,
+      network design, and security via Proxmox VE and OPNsense homelabs. Skilled
+      in customer service, training, and mentoring, with fluency in English and
+      Spanish. Seeking a dynamic role to leverage technical expertise and
+      problem-solving abilities.
 
     media:
       type: ImageBlock
