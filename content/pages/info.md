@@ -240,23 +240,20 @@ sections:
       - type: FeaturedItem
         subtitle: 'Education:'
         text: >+
-          **Utah Valley University**
+          # **Utah Valley University**
 
 
-          *Bachelor of Science in Information Technology - Network
+          ## *Bachelor of Science in Information Technology - Network
           Administration and Security Emphasis*
 
 
-          **Aug. 2020 - May 2024**
+          ## **Aug. 2020 - May 2024**
 
 
-          ****
+          ## *Associate of Applied Science in Information Systems / Technology*
 
 
-          *Associate of Applied Science in Information Systems / Technology*
-
-
-          **Aug. 2020 - May 2022**
+          ## **Aug. 2020 - May 2022**
 
         styles:
           self:
