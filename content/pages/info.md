@@ -86,7 +86,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: GitHub
+            label: LinkedIn
             url: 'https://github.com/'
         styles:
           self:
