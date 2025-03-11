@@ -72,7 +72,7 @@
                 "iconPosition": "right"
             }
         ],
-        "copyrightText": "Fueled by <span style=\"color:brown\">coffee</span> | Powered by [Netlify](https://www.netlify.com/)\n",
+        "copyrightText": "Fueled by <span style=\"color:brown\"><strong>coffee</strong></span> | Powered by [**Netlify**](https://www.netlify.com/)****\n\n",
         "styles": {
             "self": {
                 "width": "narrow",
