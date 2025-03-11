@@ -80,7 +80,7 @@ sections:
       - type: Button
         label: View My Resume
         altText: ''
-        url: /
+        url: /resume
         showIcon: true
         icon: arrowRight
         iconPosition: right
