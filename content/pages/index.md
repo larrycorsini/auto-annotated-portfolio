@@ -12,12 +12,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      Hi, I'm Larry Corsini – a Network Administrator, aspiring cybersecurity
-      expert, and tech enthusiast based in Orem, Utah. With a degree in IT
-      (Network Administration & Security), I’ve gained hands-on experience in
-      virtualization, security, and system administration through my personal
-      and professional projects.
+    title: 'Hi, I''m Larry Corsini'
     subtitle: >-
       I thrive on problem-solving, optimizing networks, and building scalable
       systems. I’m constantly learning and improving my skills in network
