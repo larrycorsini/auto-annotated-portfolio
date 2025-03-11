@@ -192,26 +192,47 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |+
-          **Current**
+        text: >+
+          **Natures Sunshine Products**
 
-          *   UX, Content Coordinator
 
-          **2018-2021**
+          **Aug. 2020 - Present**
 
-          *   fullstack at this startup
 
-          **2015**
+          *UX, Content Coordinator*
 
-          *   senior front-end at this place
 
-          **2013**
+          *   Collaborated with the creative and marketing teams, and built and
+          maintained our various company websites using CMS platforms
 
-          *   intern developer at a big company
 
-          **2011**
+          *   Managed product copy and imagery with an in-house product
+          management system.
 
-          *   flipping burgers
+
+          *   Collaborated with the IT team to identify and resolve occasional
+          technical issues.
+
+
+          *   Managed the Website Redesign Project
+
+
+          **May 2019 - Aug. 2020**
+
+
+          *Customer Service Representative*
+
+
+          *   Resolved inbound customer issues across multiple channels (email,
+          online chat, and phone) using Spice CRM.
+
+
+          *   Developed and applied deep knowledge of company processes and
+          resources.
+
+
+          *   Nominated as a trainer for my understanding of processes and
+          mentored new hires to strengthen the team.
 
         styles:
           self:
