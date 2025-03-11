@@ -250,7 +250,10 @@ sections:
           **Aug. 2020 - May 2024**
 
 
-          ****
+          ***
+
+
+          **Utah Valley University**
 
 
           *Associate of Applied Science in Information Systems / Technology*
