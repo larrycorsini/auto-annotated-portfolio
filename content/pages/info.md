@@ -15,8 +15,9 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/about.jpg
-      altText: Hero image
+      altText: Larry Corsini pic
+      caption: Larry Corsini pic
+      url: /images/about1.jpg
     styles:
       self:
         height: auto
