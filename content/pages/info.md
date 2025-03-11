@@ -81,7 +81,7 @@ sections:
         borderStyle: solid
   - type: FeaturedItemsSection
     subtitle: 'You can find me here:'
-    colors: colors-b
+    colors: colors-f
     items:
       - type: FeaturedItem
         actions:
