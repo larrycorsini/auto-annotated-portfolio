@@ -52,7 +52,7 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
+                "label": "Resume",
                 "url": "mailto:email.@larrycorsini.com",
                 "altText": "Contact Me"
             },
