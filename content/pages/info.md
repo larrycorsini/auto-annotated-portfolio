@@ -45,7 +45,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: MediaGallerySection
-    colors: colors-a
+    colors: colors-f
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
@@ -192,43 +192,84 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
+        text: >+
+          **Natures Sunshine Products**
 
-          * freelance @freelance.me
 
-          **2018-2021**
+          **Aug. 2020 - Present**
 
-          * fullstack at this startup
 
-          **2015**
+          *UX, Content Coordinator*
 
-          * senior front-end at this place
 
-          **2013**
+          *   Collaborated with the creative and marketing teams, and built and
+          maintained our various company websites using CMS platforms
 
-          * intern developer at a big company
 
-          **2011**
+          *   Managed product copy and imagery with an in-house product
+          management system.
 
-          * flipping burgers
+
+          *   Collaborated with the IT team to identify and resolve occasional
+          technical issues.
+
+
+          *   Managed the Website Redesign Project
+
+
+          **May 2019 - Aug. 2020**
+
+
+          *Customer Service Representative*
+
+
+          *   Resolved inbound customer issues across multiple channels (email,
+          online chat, and phone) using Spice CRM.
+
+
+          *   Developed and applied deep knowledge of company processes and
+          resources.
+
+
+          *   Nominated as a trainer for my understanding of processes and
+          mentored new hires to strengthen the team.
+
         styles:
           self:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: >+
+          **Utah Valley University**
 
-          * ba computer sciense at a semi fancy school
 
-          **2014**
+          *Bachelor of Science in Information Technology - Network
+          Administration and Security Emphasis*
 
-          * react certificate somewhere
 
-          **2011**
+          **Aug. 2020 - May 2024**
 
-          * my highschool
+
+          ***
+
+
+          **Utah Valley University**
+
+
+          *Associate of Applied Science in Information Systems / Technology*
+
+
+          **Aug. 2020 - May 2022**
+
+
+          ****
+
+
+          CompTIA Network+ Certification (In Progress)
+
+
+          CompTIA Security+ Certification (In Progress)
+
         styles:
           self:
             textAlign: left
@@ -257,64 +298,50 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: ContactSection
-    backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
-    colors: colors-f
+    title: Contact Me
+    text: ''
     form:
       type: FormBlock
-      elementId: sign-up-form
+      title: Title of the form
       fields:
-        - name: firstName
-          label: First Name
+        - type: TextFormControl
+          name: name
+          label: Name
           hideLabel: true
-          placeholder: First Name
-          isRequired: true
+          placeholder: Your name
           width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
+          isRequired: 'true'
+        - type: EmailFormControl
+          name: email
+          label: Name
           hideLabel: true
-          placeholder: Last Name
-          isRequired: false
+          placeholder: Your email
           width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
+          isRequired: 'true'
+        - type: TextareaFormControl
+          name: message
+          label: Tell me about your project
           hideLabel: true
-          placeholder: Email
+          placeholder: Type your message here...
+          width: full
           isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Tell me about your project
-          isRequired: true
-          width: full
-          type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
+      submitLabel: Send Message
+      elementId: contact-form
       styles:
         self:
           textAlign: center
+    colors: colors-a
+    backgroundSize: full
+    elementId: ''
     styles:
       self:
         height: auto
         width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-4
-          - mr-4
         padding:
-          - pt-12
-          - pb-12
-          - pr-4
+          - pt-28
+          - pb-36
           - pl-4
+          - pr-4
         flexDirection: row
-        textAlign: left
+        textAlign: center
 ---
