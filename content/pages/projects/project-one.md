@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: OPNsense VPN Setup
+title: OPNsense Tunnel Setup
 colors: colors-a
 date: '2021-10-15'
 client: Secure Remote Network Access
