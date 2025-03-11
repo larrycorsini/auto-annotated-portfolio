@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Proxmox VE-Based Home Lab
 colors: colors-a
-date: '0002-12-20'
+date: '2025-12-20'
 client: Virtualized Networking and Security Lab
 description: >-
   Designed and implemented a Proxmox-based lab with secure network segmentation,
