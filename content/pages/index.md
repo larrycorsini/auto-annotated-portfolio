@@ -11,7 +11,7 @@ backgroundImage:
   url: /images/bme-webbanners10_desktop.webp
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-b
     backgroundSize: inset
     title: 'Network Administrator, aspiring cybersecurity expert, and tech enthusiast'
     subtitle: >-
