@@ -117,4 +117,5 @@ sections:
           - pr-4
         flexDirection: row
         textAlign: center
+socialImage: /images/android-chrome-512x512.png
 ---
