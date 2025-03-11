@@ -13,7 +13,7 @@ description: >-
   Pi-hole, Prometheus, and Grafana.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Proxmox-VE-8-0-Cluster-Summary.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
