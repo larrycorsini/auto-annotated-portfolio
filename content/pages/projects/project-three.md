@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Docker-Based Media Server
+title: Jellyfin Media Server in Proxmox
 colors: colors-a
 date: '2025-02-01'
 client: Self-Hosted Media Server Deployment
