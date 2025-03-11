@@ -37,7 +37,12 @@ sections:
         textAlign: left
     type: HeroSection
     actions: []
-    text: ''
+    text: >+
+      I thrive on problem-solving, optimizing networks, and building scalable
+      systems. I’m constantly learning and improving my skills in network
+      infrastructure, cybersecurity, and cloud technologies. Let's connect and
+      explore opportunities to collaborate!
+
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
