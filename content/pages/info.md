@@ -11,8 +11,7 @@ sections:
       Administration & Security) and hands-on experience in virtualization,
       network design, and security via Proxmox VE and OPNsense homelabs. Skilled
       in customer service, training, and mentoring, with fluency in English and
-      Spanish. Seeking a dynamic role to leverage technical expertise and
-      problem-solving abilities.
+      Spanish.
 
     media:
       type: ImageBlock
