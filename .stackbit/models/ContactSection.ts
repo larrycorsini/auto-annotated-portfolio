@@ -69,6 +69,10 @@ export const ContactSectionModel: Model = {
                     }
                 ],
                 submitLabel: 'Send Message'
+                // Add Netlify attributes here
+                netlifyForm: true, // Enable Netlify form detection
+                netlifyName: 'contact', // Set form name attribute
+                action: '/success' // Optional: redirect to a success page after submission
             }
         },
         {
