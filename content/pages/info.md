@@ -146,7 +146,7 @@ sections:
       - type: Label
         label: Networking Protocols & Infrastructure
       - type: Label
-        label: React
+        label: Routing & Switching
       - type: Label
         label: Microsoft Office
       - type: Label
