@@ -67,7 +67,8 @@
                 "url": "https://www.linkedin.com/in/larrycorsini/",
                 "altText": "LinkedIn",
                 "showIcon": true,
-                "icon": "linkedin"
+                "icon": "linkedin",
+                "iconPosition": "left"
             },
             {
                 "type": "Link",
