@@ -1,6 +1,6 @@
 {
     "type": "Config",
-    "favicon": "/images/favicon.svg",
+    "favicon": "/images/android-chrome-512x512.png",
     "header": {
         "type": "Header",
         "headerVariant": "variant-c",
