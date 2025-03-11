@@ -158,7 +158,7 @@ sections:
       - type: Label
         label: Automation & Scripting
       - type: Label
-        label: Soft Skills
+        label: Problem-Solving & Collaboration
   - type: DividerSection
     styles:
       self:
