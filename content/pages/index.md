@@ -8,6 +8,7 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 75
+  url: /images/bme-webbanners10_desktop.webp
 sections:
   - elementId: ''
     colors: colors-c
