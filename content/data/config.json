@@ -77,7 +77,7 @@
                 "iconPosition": "right"
             }
         ],
-        "copyrightText": "",
+        "copyrightText": "Powered by [Netlify](https://www.netlify.com/) Fueled by Coffee\n",
         "styles": {
             "self": {
                 "width": "narrow",
