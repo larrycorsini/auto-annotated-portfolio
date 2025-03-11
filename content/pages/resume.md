@@ -3,7 +3,7 @@ type: PageLayout
 title: Resume
 sections:
   - type: HeroSection
-    title: RESUMES
+    title: RESUME
     subtitle: ''
     text: ''
     actions: []
