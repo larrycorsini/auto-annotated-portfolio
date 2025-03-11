@@ -4,7 +4,7 @@ title: About
 colors: colors-b
 sections:
   - elementId: ''
-    colors: colors-c
+    colors: colors-f
     backgroundSize: full
     text: >+
       # Hey I’m a Network Administrator with a B.Sc. in IT (Network
