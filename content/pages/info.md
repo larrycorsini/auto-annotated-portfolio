@@ -154,7 +154,7 @@ sections:
       - type: Label
         label: Virtualization & Cloud Services
       - type: Label
-        label: Pancakes
+        label: Network Monitoring & Troubleshooting
       - type: Label
         label: C++
       - type: Label
