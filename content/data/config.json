@@ -53,7 +53,7 @@
             {
                 "type": "Link",
                 "label": "Resume",
-                "url": "mailto:email.@larrycorsini.com",
+                "url": "/resume",
                 "altText": "Resume"
             },
             {
