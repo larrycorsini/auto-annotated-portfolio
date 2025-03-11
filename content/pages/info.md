@@ -140,7 +140,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: LabelsSection
-    colors: colors-f
+    colors: colors-c
     subtitle: 'Skills:'
     items:
       - type: Label
