@@ -109,7 +109,7 @@ sections:
             textAlign: left
         actions:
           - type: Link
-            label: Youtube
+            label: YouTube
             altText: ''
             url: 'https://www.youtube.com/@Brighton_Bums'
             showIcon: false
