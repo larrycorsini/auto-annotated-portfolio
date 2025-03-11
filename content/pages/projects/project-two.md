@@ -17,7 +17,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Proxmox-VE-8-0-Cluster-Summary.png
   altText: Project image
 bottomSections:
   - type: TextSection
