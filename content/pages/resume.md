@@ -26,9 +26,6 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: Pancakes
-        url: ''
-      - type: Label
         label: C++
         url: ''
       - type: Label
