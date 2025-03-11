@@ -73,5 +73,5 @@ sections:
           - pr-4
         textAlign: center
 addTitleSuffix: true
-colors: colors-a
+colors: colors-b
 ---
