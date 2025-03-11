@@ -22,7 +22,8 @@
             {
                 "type": "Link",
                 "label": "Resume",
-                "url": "/blog"
+                "url": "/blog",
+                "altText": "Resume"
             }
         ],
         "socialLinks": [
