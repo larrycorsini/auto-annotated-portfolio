@@ -11,7 +11,8 @@
             {
                 "type": "Link",
                 "label": "About",
-                "url": "/info"
+                "url": "/info",
+                "altText": "About"
             },
             {
                 "type": "Link",
