@@ -24,10 +24,7 @@ sections:
   - type: LabelsSection
     title: ''
     subtitle: ''
-    items:
-      - type: Label
-        label: Swift
-        url: ''
+    items: []
     colors: colors-f
     elementId: ''
     styles:
