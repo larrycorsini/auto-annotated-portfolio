@@ -3,15 +3,16 @@
     "favicon": "/images/android-chrome-512x512.png",
     "header": {
         "type": "Header",
-        "headerVariant": "variant-c",
+        "headerVariant": "variant-b",
         "isSticky": false,
-        "title": "Personal",
+        "title": "Larry Corsini",
         "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
-                "url": "/info"
+                "label": "About",
+                "url": "/info",
+                "altText": "About"
             },
             {
                 "type": "Link",
@@ -20,24 +21,18 @@
             },
             {
                 "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
+                "label": "Resume",
+                "url": "/resume",
+                "altText": "Resume"
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "altText": "LinkedIn",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/larrycorsini/",
+                "icon": "linkedin"
             }
         ],
         "styles": {
@@ -57,15 +52,15 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
-                "url": "mailto:email.@larrycorsini.com",
-                "altText": "Contact Me"
-            },
-            {
-                "type": "Link",
                 "label": "Projects",
                 "url": "/projects",
                 "altText": "Netlify templates"
+            },
+            {
+                "type": "Link",
+                "label": "Resume",
+                "url": "/resume",
+                "altText": "Resume"
             },
             {
                 "type": "Link",
