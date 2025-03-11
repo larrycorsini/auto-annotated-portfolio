@@ -95,7 +95,7 @@ sections:
         actions:
           - type: Link
             label: Instagram
-            url: 'https://twitter.com/'
+            url: 'https://www.instagram.com/larry_leaper/'
         styles:
           self:
             textAlign: left
