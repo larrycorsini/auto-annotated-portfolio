@@ -24,7 +24,10 @@ sections:
   - type: LabelsSection
     title: ''
     subtitle: ''
-    items: []
+    items:
+      - type: Label
+        label: Resume
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
