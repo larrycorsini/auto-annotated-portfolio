@@ -152,7 +152,7 @@ sections:
       - type: Label
         label: Operating Systems & Server Management
       - type: Label
-        label: Netlify
+        label: Virtualization & Cloud Services
       - type: Label
         label: Pancakes
       - type: Label
