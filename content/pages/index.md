@@ -71,9 +71,11 @@ sections:
     subtitle: Projects
   - type: CtaSection
     title: Explore My Expertise in Network Administration
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >+
+      With hands-on experience in network design, security, and optimization,
+      I'm ready to help businesses build and maintain reliable network
+      infrastructures.
+
     actions:
       - type: Button
         label: Try it now
