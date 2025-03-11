@@ -7,7 +7,7 @@
     "image": {
         "type": "ImageBlock",
         "url": "/images/about1.jpg",
-        "altText": "Person photo",
+        "altText": "Larry Corsini photo",
         "caption": "Caption of the image",
         "elementId": ""
     }
