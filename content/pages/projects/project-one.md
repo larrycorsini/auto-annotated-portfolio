@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: OPNsense Tunnel Setup
 colors: colors-a
-date: '2025-10-15'
+date: ''
 client: Secure Remote Network Access
 description: >-
   Configured OpenVPN on OPNsense for secure remote access to my homelab,
