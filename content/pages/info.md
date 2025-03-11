@@ -49,10 +49,6 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/NS-icon-white.png
-        altText: Natures Sunshine
-        caption: Natures Sunshine
-      - type: ImageBlock
         url: /images/NS-logo-primary-white.png
         altText: Natures Sunshine
         caption: Natures Sunshine
