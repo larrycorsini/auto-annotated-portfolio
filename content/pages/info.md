@@ -54,7 +54,7 @@ sections:
         caption: Natures Sunshine
       - type: ImageBlock
         url: /images/NS-logo-primary-white.png
-        altText: altText of the image
+        altText: Natures Sunshine
         caption: Caption of the image
         elementId: ''
     spacing: 3
