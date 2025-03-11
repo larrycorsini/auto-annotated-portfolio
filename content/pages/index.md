@@ -42,33 +42,6 @@ sections:
     text: |+
 
 
-  - colors: colors-e
-    type: FeaturedProjectsSection
-    elementId: projects
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        textAlign: left
-    subtitle: Projects
   - type: CtaSection
     title: Explore My Expertise in Network Administration
     text: >+
@@ -100,5 +73,32 @@ sections:
           - pr-4
         flexDirection: col
         textAlign: center
+  - colors: colors-e
+    type: FeaturedProjectsSection
+    elementId: projects
+    actions:
+      - type: Link
+        label: See all projects
+        url: /projects
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
+    variant: variant-b
+    projects:
+      - content/pages/projects/project-two.md
+      - content/pages/projects/project-three.md
+      - content/pages/projects/project-one.md
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        textAlign: left
+    subtitle: Projects
 socialImage: /images/android-chrome-512x512.png
 ---
