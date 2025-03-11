@@ -12,7 +12,7 @@ sections:
   - elementId: ''
     colors: colors-c
     backgroundSize: full
-    title: I'm Larry Corsini
+    title: 'Network Administrator, aspiring cybersecurity expert, and tech enthusiast'
     subtitle: >-
       – a Network Administrator, aspiring cybersecurity expert, and tech
       enthusiast based in Orem, Utah. With a degree in IT (Network
