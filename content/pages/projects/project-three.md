@@ -15,7 +15,8 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/Artboard-1.webp
+  url: >-
+    /images/jellyfin-10-9-0-released-with-many-new-features-v0-nP4hquZJgJK4d0HPvShs1jYPdzq8cnjI0Lltn41aew0.webp
   altText: Project image
 ---
 
