@@ -239,7 +239,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: >+
+        text: >
           **Utah Valley University**
 
 
@@ -250,11 +250,13 @@ sections:
           **Aug. 2020 - May 2024**
 
 
+          **
+
+
           *Associate of Applied Science in Information Systems / Technology*
 
 
           **Aug. 2020 - May 2022**
-
         styles:
           self:
             textAlign: left
