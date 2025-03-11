@@ -6,7 +6,7 @@
         "headerVariant": "variant-b",
         "isSticky": false,
         "title": "Larry Corsini",
-        "isTitleVisible": true,
+        "isTitleVisible": false,
         "primaryLinks": [
             {
                 "type": "Link",
