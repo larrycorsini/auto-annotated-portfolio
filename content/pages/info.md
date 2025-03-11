@@ -107,6 +107,15 @@ sections:
         styles:
           self:
             textAlign: left
+        actions:
+          - type: Link
+            label: Learn more
+            altText: ''
+            url: 'https://www.youtube.com/@Brighton_Bums'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
     columns: 3
     spacingX: 120
     spacingY: 16
