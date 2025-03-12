@@ -28,7 +28,7 @@ sections:
         flexDirection: row
         textAlign: left
 addTitleSuffix: true
-colors: colors-a
+colors: colors-b
 backgroundImage:
   type: BackgroundImage
   url: /images/bme-webbanners10_desktop.webp
