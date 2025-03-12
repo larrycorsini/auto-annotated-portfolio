@@ -62,13 +62,21 @@ export const ContactSectionModel: Model = {
                         width: 'full'
                     },
                     {
+                        type: 'TextareaFormControl', // Change this to a textarea for the message
+                        name: 'message',
+                        label: 'Message',
+                        placeholder: 'Type your message here...',
+                        isRequired: true,
+                        width: 'full'
+                    },
+                    {
                         type: 'CheckboxFormControl',
                         name: 'updates',
                         label: 'Sign me up to receive updates',
                         width: 'full'
                     }
                 ],
-                submitLabel: 'Send Message'
+                submitLabel: 'Send Message',
                 // Add Netlify attributes here
                 netlifyForm: true, // Enable Netlify form detection
                 netlifyName: 'contact', // Set form name attribute
