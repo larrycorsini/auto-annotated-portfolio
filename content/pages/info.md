@@ -17,7 +17,7 @@ sections:
       type: ImageBlock
       altText: Larry Corsini pic
       caption: Larry Corsini pic
-      url: /images/about1.jpg
+      url: /images/aboutmepic.JPG
     styles:
       self:
         height: auto
@@ -306,7 +306,7 @@ sections:
       title: Title of the form
       fields:
         - type: TextFormControl
-          name: Name
+          name: name
           label: name
           hideLabel: true
           placeholder: Your name
@@ -314,13 +314,13 @@ sections:
           isRequired: 'true'
         - type: EmailFormControl
           name: email
-          label: Email
+          label: email
           hideLabel: true
           placeholder: Your email
           width: 1/2
           isRequired: 'true'
         - type: TextareaFormControl
-          name: Message
+          name: message
           label: message
           hideLabel: true
           placeholder: Type your message here...
