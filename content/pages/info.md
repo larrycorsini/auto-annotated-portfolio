@@ -326,16 +326,6 @@ sections:
           placeholder: Type your message here...
           width: full
           isRequired: true
-        - type: SelectFormControl
-          name: subject
-          label: Subject
-          hideLabel: false
-          defaultValue: Please choose...
-          options:
-            - Logo design
-            - Other
-          width: full
-          isRequired: false
       submitLabel: Send Message
       elementId: contact-form
       styles:
