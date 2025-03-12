@@ -314,7 +314,7 @@ sections:
           isRequired: 'true'
         - type: EmailFormControl
           name: email
-          label: Email
+          label: email
           hideLabel: true
           placeholder: Your email
           width: 1/2
