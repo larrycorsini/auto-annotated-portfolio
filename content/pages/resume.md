@@ -14,7 +14,7 @@ sections:
 
     actions: []
     colors: colors-c
-    backgroundSize: full
+    backgroundSize: inset
     elementId: ''
     styles:
       self:
