@@ -17,7 +17,7 @@ sections:
       type: ImageBlock
       altText: Larry Corsini pic
       caption: Larry Corsini pic
-      url: /images/about1.jpg
+      url: /images/aboutmepic.JPG
     styles:
       self:
         height: auto
