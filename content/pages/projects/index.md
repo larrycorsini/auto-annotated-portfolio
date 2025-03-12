@@ -24,7 +24,7 @@ topSections:
     title: Projects
     subtitle: ''
     actions: []
-    colors: colors-f
+    colors: colors-a
     backgroundSize: full
     elementId: ''
     styles:
