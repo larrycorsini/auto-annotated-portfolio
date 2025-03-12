@@ -3,5 +3,5 @@
   command = "npm run build"
 
 [[plugins]]
-  #package = "@netlify/plugin-nextjs"
-  package = "@opennextjs/netlify"
+  package = "@netlify/plugin-nextjs"
+  #package = "@opennextjs/netlify"
