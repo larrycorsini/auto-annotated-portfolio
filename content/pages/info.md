@@ -306,22 +306,22 @@ sections:
       title: Title of the form
       fields:
         - type: TextFormControl
-          name: name
-          label: Name
+          name: Name
+          label: name
           hideLabel: true
           placeholder: Your name
           width: 1/2
           isRequired: 'true'
         - type: EmailFormControl
           name: email
-          label: Name
+          label: Email
           hideLabel: true
           placeholder: Your email
           width: 1/2
           isRequired: 'true'
         - type: TextareaFormControl
-          name: message
-          label: Tell me about your project
+          name: Message
+          label: message
           hideLabel: true
           placeholder: Type your message here...
           width: full
