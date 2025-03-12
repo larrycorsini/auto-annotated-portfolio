@@ -17,13 +17,13 @@ export default function FormBlock(props) {
         event.preventDefault();
 
         const data = new FormData(formRef.current);
-        const value = Object.fromEntries(data.entries());
-        alert(`Form data: ${JSON.stringify(value)}`);
+        //const value = Object.fromEntries(data.entries());
+        //alert(`Form data: ${JSON.stringify(value)}`);
     }
 
     return (
         <Annotated content={props}>
-            <form className={className} name={elementId} id={elementId} onSubmit={handleSubmit} ref={formRef}>
+            <form className={className} name={elementId} id={elementId} ref={formRef} data-netlify="true" method="POST">
                 <div className="grid gap-6 sm:grid-cols-2">
                     <input type="hidden" name="form-name" value={elementId} />
                     {fields.map((field, index) => {
