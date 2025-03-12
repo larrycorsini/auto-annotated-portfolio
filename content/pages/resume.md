@@ -28,5 +28,5 @@ sections:
         flexDirection: row
         textAlign: left
 addTitleSuffix: true
-colors: colors-c
+colors: colors-a
 ---
