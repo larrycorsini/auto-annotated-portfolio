@@ -13,7 +13,7 @@ sections:
       my full resume</p>
 
     actions: []
-    colors: colors-b
+    colors: colors-f
     backgroundSize: full
     elementId: ''
     styles:
@@ -28,5 +28,12 @@ sections:
         flexDirection: row
         textAlign: left
 addTitleSuffix: true
-colors: colors-d
+colors: colors-b
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bme-webbanners10_desktop.webp
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
