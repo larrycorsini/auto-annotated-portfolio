@@ -112,5 +112,52 @@ sections:
           - pr-4
         textAlign: left
     subtitle: Projects
+  - type: ContactSection
+    title: Contact Me
+    text: ''
+    form:
+      type: FormBlock
+      title: Title of the form
+      fields:
+        - type: TextFormControl
+          name: name
+          label: Name
+          hideLabel: true
+          placeholder: Your name
+          width: 1/2
+          isRequired: 'true'
+        - type: EmailFormControl
+          name: email
+          label: Name
+          hideLabel: true
+          placeholder: Your email
+          width: 1/2
+          isRequired: 'true'
+        - type: TextareaFormControl
+          name: message
+          label: message
+          hideLabel: true
+          placeholder: Type your message here...
+          width: full
+          isRequired: true
+      submitLabel: Send Message
+      elementId: contact-form
+      styles:
+        self:
+          textAlign: center
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: narrow
+        padding:
+          - pt-28
+          - pb-36
+          - pl-4
+          - pr-4
+        flexDirection: row
+        textAlign: center
 socialImage: /images/android-chrome-512x512.png
 ---
