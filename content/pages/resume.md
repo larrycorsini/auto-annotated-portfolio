@@ -31,7 +31,7 @@ addTitleSuffix: true
 colors: colors-b
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/bme-webbanners10_desktop.webp
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
