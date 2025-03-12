@@ -320,7 +320,7 @@ sections:
           width: 1/2
           isRequired: 'true'
         - type: TextareaFormControl
-          name: Message
+          name: message
           label: message
           hideLabel: true
           placeholder: Type your message here...
