@@ -50,14 +50,14 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/NS-logo-primary-white.png
-        altText: Natures Sunshine
-        caption: Natures Sunshine
-        elementId: ''
-      - type: ImageBlock
         url: /images/helpcloudlogo.png
         altText: HelpCloud image
         caption: HelpCloud
+        elementId: ''
+      - type: ImageBlock
+        url: /images/NS-logo-primary-white.png
+        altText: Natures Sunshine
+        caption: Natures Sunshine
         elementId: ''
     spacing: 3
     columns: 5
