@@ -58,7 +58,7 @@ sections:
         url: >-
           https://assets.stackbit.com/components/images/default/default-image.png
         altText: HelpCloud image
-        caption: Caption of the image
+        caption: HelpCloud
         elementId: ''
     spacing: 3
     columns: 5
