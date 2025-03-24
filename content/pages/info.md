@@ -59,10 +59,6 @@ sections:
         altText: Natures Sunshine
         caption: Natures Sunshine
         elementId: ''
-      - type: ImageBlock
-        altText: ADT
-        caption: Caption of the image
-        elementId: ''
     spacing: 3
     columns: 5
     aspectRatio: auto
