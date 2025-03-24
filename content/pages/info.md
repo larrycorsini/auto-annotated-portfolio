@@ -55,8 +55,7 @@ sections:
         caption: Natures Sunshine
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/helpcloudlogo.png
         altText: HelpCloud image
         caption: HelpCloud
         elementId: ''
