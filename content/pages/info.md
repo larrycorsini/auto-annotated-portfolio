@@ -194,10 +194,37 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: >+
+          **HelpCloud**
+
+
+          **Mar. 2025 - Apr. 2025**
+
+
+          Tier 1 Support Technician
+
+
+          *   Provided technical support to customers via phone and remote
+          tools, resolving issues like password resets, system tune-ups, and
+          junk removal.
+
+
+          *   Troubleshot intermediate computer issues across Windows, macOS,
+          Apple, and Android platforms using tools like SUPERAntiSpyware and
+          Process Monitor.
+
+
+          *   Managed and prioritized multiple customer tickets using Zendesk
+          and Zoho CRM, ensuring efficient case resolutions.
+
+
+          *   Collaborated with the team to streamline support processes and
+          enhance client satisfaction.
+
+
           **Natures Sunshine Products**
 
 
-          **Aug. 2020 - Present**
+          **Aug. 2020 - Mar. 2025**
 
 
           *UX, Content Coordinator*
