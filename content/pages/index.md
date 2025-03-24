@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-b
     backgroundSize: full
-    title: >-
-      Network Administrator - aspiring cybersecurity expert - and tech
-      enthusiast
+    title: Network Administrator - aspiring cybersecurity expert & tech enthusiast
     subtitle: >-
       – with a degree in IT (Network Administration & Security), I’ve gained
       hands-on experience in virtualization, security, and system administration
