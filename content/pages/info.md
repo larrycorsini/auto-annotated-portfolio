@@ -60,7 +60,7 @@ sections:
         caption: Natures Sunshine
         elementId: ''
       - type: ImageBlock
-        url: /images/ADT_Security_Services_Logo.svg.png
+        url: /images/ADT-Logo-2007.png
         altText: ADT security Image
         caption: ADT Security Services
         elementId: ''
