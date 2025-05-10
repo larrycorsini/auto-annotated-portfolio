@@ -204,6 +204,32 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: >+
+          **ADT Security**
+
+
+          **Apr. 2025 – Present**
+
+
+          IT Depot Technician
+
+
+          *   Administered Active Directory and deployed PCs, Macs, and mobile
+          devices using tools like Apple Business Manager and XenMobile.
+
+
+          *   Developed Python scripts with a custom GUI and managed a MySQL
+          database to automate device tracking and optimize data management.
+
+
+          *   Troubleshot hardware and software issues using SCM OSD imaging,
+          managed inventory via Oracle applications, and documented system
+          processes.
+
+
+          *   Collaborated with vendors to streamline hardware maintenance and
+          contributed to overall system security and operational efficiency.
+
+
           **HelpCloud**
 
 
