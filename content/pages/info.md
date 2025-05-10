@@ -63,7 +63,7 @@ sections:
         url: >-
           https://assets.stackbit.com/components/images/default/default-image.png
         altText: ADT
-        caption: Caption of the image
+        caption: ADT Security
         elementId: ''
     spacing: 3
     columns: 5
