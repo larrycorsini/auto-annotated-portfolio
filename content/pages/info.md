@@ -214,7 +214,7 @@ sections:
 
 
           *   Administered Active Directory and deployed PCs, Macs, and mobile
-          devices using tools like Apple Business Manager and XenMobile.
+          devices using tools like Apple Business Manager.
 
 
           *   Developed Python scripts with a custom GUI and managed a MySQL
