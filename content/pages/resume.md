@@ -10,7 +10,12 @@ sections:
 
 
       <p style="text-align: left; font-style: italic;">Click image above to view
-      my full resume or click here to download now</p> 
+      my full resume</p> 
+
+
+      [**click
+      here**](https://docs.google.com/document/d/1r5iTEUh1yH7_5LLFVVpINVvuYnWxt2r1/export?format=pdf)
+      to download now
 
     actions: []
     colors: colors-b
