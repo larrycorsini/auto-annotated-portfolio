@@ -50,6 +50,11 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
+        url: /images/ADT-Logo-2007.png
+        altText: ADT
+        caption: ADT Security
+        elementId: ''
+      - type: ImageBlock
         url: /images/helpcloudlogo.png
         altText: HelpCloud image
         caption: HelpCloud
@@ -58,11 +63,6 @@ sections:
         url: /images/NS-logo-primary-white.png
         altText: Natures Sunshine
         caption: Natures Sunshine
-        elementId: ''
-      - type: ImageBlock
-        url: /images/ADT-Logo-2007.png
-        altText: ADT
-        caption: ADT Security
         elementId: ''
     spacing: 3
     columns: 5
