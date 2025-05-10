@@ -5,7 +5,7 @@ sections:
   - type: HeroSection
     title: RESUME
     subtitle: ''
-    text: >+
+    text: >
       [![Resume](/images/resumessnip.png)](https://docs.google.com/document/d/1r5iTEUh1yH7_5LLFVVpINVvuYnWxt2r1/preview?tab=t.0)
 
 
@@ -13,8 +13,9 @@ sections:
       my full resume</p>
 
 
-      Click here to download now
-
+      [**Click
+      here**](https://docs.google.com/document/d/1r5iTEUh1yH7_5LLFVVpINVvuYnWxt2r1/export?format=pdf)
+      to download now
     actions: []
     colors: colors-b
     backgroundSize: full
