@@ -7,13 +7,9 @@ sections:
     colors: colors-e
     backgroundSize: inset
     text: >+
-      # Currently managing mission-critical infrastructure for the Sundance
+      ## Currently managing mission-critical infrastructure for the Sundance
       Institute. I specialize in network security, virtualization, and
       automation using tools like Proxmox VE and Python.
-
-
-
-
 
     media:
       type: ImageBlock
