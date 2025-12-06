@@ -5,10 +5,12 @@ sections:
   - type: HeroSection
     title: RESUME
     subtitle: ''
-    text: >
+    text: >+
       <a
       href="https\://docs.google.com/document/d/1r5iTEUh1yH7\_5LLFVVpINVvuYnWxt2r1/preview?tab=t.0"
-      target="\_blank"><img src="/images/resumessnip.png" alt="Resume"/></a>
+      target="\_blank"><img
+      src="https://devserver-preview--larrycorsini.netlify.app/_static/app-assets/public/images/resumessnip.png"
+      alt="Resume"/></a>
 
 
       <i>Click image above to view my full resume</i>
@@ -20,6 +22,7 @@ sections:
       <a
       href="https\://docs.google.com/document/d/1r5iTEUh1yH7\_5LLFVVpINVvuYnWxt2r1/export?format=pdf"
       target="\_blank"><strong>Click here to download now</strong></a>
+
     actions: []
     colors: colors-b
     backgroundSize: full
