@@ -34,6 +34,7 @@ sections:
           - pr-4
         textAlign: left
     type: HeroSection
+    title: 'Hi, I''m Larry Corsini.'
   - type: DividerSection
     styles:
       self:
