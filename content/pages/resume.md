@@ -30,12 +30,6 @@ sections:
           - pr-4
         flexDirection: row
         textAlign: left
-    media:
-      type: ImageBlock
-      url: /images/resumessnip.png
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
 addTitleSuffix: true
 colors: colors-b
 backgroundImage:
