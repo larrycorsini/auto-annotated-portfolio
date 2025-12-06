@@ -172,8 +172,6 @@ sections:
         label: Proxmox VE
         url: ''
       - type: Label
-        label: Networking Protocols & Infrastructure
-      - type: Label
         label: Firewall & Security Management
       - type: Label
         label: Virtualization & Cloud Services
