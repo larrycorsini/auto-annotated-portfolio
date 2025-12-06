@@ -172,15 +172,23 @@ sections:
         label: Proxmox VE
         url: ''
       - type: Label
-        label: Networking Protocols & Infrastructure
+        label: OPNsense / Firewalls
+        url: ''
       - type: Label
-        label: Firewall & Security Management
+        label: Python & Automation
+        url: ''
       - type: Label
-        label: Virtualization & Cloud Services
+        label: Active Directory
+        url: ''
       - type: Label
-        label: Network Monitoring & Troubleshooting
+        label: Linux & Windows Server
+        url: ''
       - type: Label
-        label: Automation & Scripting
+        label: Network Security
+        url: ''
+      - type: Label
+        label: Troubleshooting
+        url: ''
     title: ''
     styles:
       self:
