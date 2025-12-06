@@ -35,6 +35,7 @@ sections:
         textAlign: left
     type: HeroSection
     title: 'Hi, I''m Larry Corsini.'
+    subtitle: Network Administrator
   - type: DividerSection
     styles:
       self:
