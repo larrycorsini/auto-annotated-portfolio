@@ -7,7 +7,7 @@ sections:
     colors: colors-e
     backgroundSize: inset
     text: >+
-      ## Currently managing mission-critical infrastructure for the Sundance
+      ### Currently managing mission-critical infrastructure for the Sundance
       Institute. I specialize in network security, virtualization, and
       automation using tools like Proxmox VE and Python.
 
@@ -33,7 +33,7 @@ sections:
         textAlign: left
     type: HeroSection
     title: 'Hi, I''m Larry Corsini.'
-    subtitle: Network Administrator
+    subtitle: NETWORK ADMINISTRATOR
   - type: DividerSection
     styles:
       self:
