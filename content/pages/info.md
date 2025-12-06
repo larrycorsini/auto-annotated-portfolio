@@ -67,7 +67,7 @@ sections:
       - type: ImageBlock
         url: >-
           https://assets.stackbit.com/components/images/default/default-image.png
-        altText: altText of the image
+        altText: Sundance Institute
         caption: Caption of the image
         elementId: ''
     spacing: 3
