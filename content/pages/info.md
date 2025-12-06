@@ -175,6 +175,9 @@ sections:
         label: Network Monitoring & Troubleshooting
       - type: Label
         label: Automation & Scripting
+      - type: Label
+        label: TCP/IP & DNS
+        url: ''
     title: ''
     styles:
       self:
