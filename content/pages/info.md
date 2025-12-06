@@ -65,8 +65,6 @@ sections:
         caption: Natures Sunshine
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
         altText: Sundance Institute
         caption: Sundance Institute
         elementId: ''
