@@ -16,9 +16,9 @@ sections:
       <br/>
 
 
-      <p><a
+      <span><a
       href="https\://docs.google.com/document/d/1r5iTEUh1yH7\_5LLFVVpINVvuYnWxt2r1/export?format=pdf"
-      target="\_blank"><strong>Click here</strong></a>to download now</p>
+      target="\_blank"><strong>Click here</strong></a>to download now</span>
     actions: []
     colors: colors-b
     backgroundSize: full
