@@ -13,6 +13,8 @@ sections:
 
       <i>Click image above to view my full resume</i>
 
+      <br/>
+
       <a
       href="https\://docs.google.com/document/d/1r5iTEUh1yH7\_5LLFVVpINVvuYnWxt2r1/export?format=pdf"
       target="\_blank"><strong>Click here</strong></a>to download now
