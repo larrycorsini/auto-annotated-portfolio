@@ -220,14 +220,17 @@ sections:
 
           *   Oversee the rapid deployment and management of mission-critical
           network infrastructure for the 2026 Sundance Film Festival, ensuring
-          high availability for venue operations.*   Plan and install TCP/IP
-          LAN/WAN and Wi-Fi infrastructure across multiple temporary venues,
-          including the configuration of switches, routers, and access
-          points.*   Provide Tier 2 network troubleshooting to resolve
-          connectivity issues and maintain uptime in a high-pressure, live-event
-          environment.*   Support edge devices and box office systems while
-          maintaining detailed network documentation and enforcing security
-          policies.
+          high availability for venue operations.
+
+          *   Plan and install TCP/IP LAN/WAN and Wi-Fi infrastructure across
+          multiple temporary venues, including the configuration of switches,
+          routers, and access points.
+
+          *   Provide Tier 2 network troubleshooting to resolve connectivity
+          issues and maintain uptime in a high-pressure, live-event environment.
+
+          *   Support edge devices and box office systems while maintaining
+          detailed network documentation and enforcing security policies.
 
 
           **ADT Security**
