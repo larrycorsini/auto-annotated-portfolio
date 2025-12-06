@@ -172,8 +172,6 @@ sections:
         label: Proxmox VE
         url: ''
       - type: Label
-        label: Network Monitoring & Troubleshooting
-      - type: Label
         label: OPNsense / Firewalls
         url: ''
     title: ''
