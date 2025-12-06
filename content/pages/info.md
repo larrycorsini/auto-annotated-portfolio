@@ -6,13 +6,13 @@ sections:
   - elementId: ''
     colors: colors-e
     backgroundSize: inset
-    text: >+
-      # Hey I’m a Network Administrator with a B.Sc. in IT (Network
-      Administration & Security) and hands-on experience in virtualization,
-      network design, and security via Proxmox VE and OPNsense homelabs. Skilled
-      in customer service, training, and mentoring, with fluency in English and
-      Spanish.
-
+    text: >
+      # Hey, I'm a Network Administrator currently managing mission-critical
+      infrastructure for the Sundance Institute. I hold a B.Sc. in IT (Network
+      Admin & Security) and have hands-on experience in virtualization, network
+      design, and security via Proxmox VE and OPNsense homelabs. Skilled in
+      Python automation, troubleshooting, and team leadership. Fluent in English
+      and Spanish.
     media:
       type: ImageBlock
       altText: Larry Corsini pic
@@ -160,21 +160,31 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
+        label: Network Administration
+        url: ''
+      - type: Label
+        label: Wireless Networking
+        url: ''
+      - type: Label
+        label: TCP/IP & DNS
+        url: ''
+      - type: Label
+        label: Proxmox VE
+        url: ''
+      - type: Label
         label: Networking Protocols & Infrastructure
       - type: Label
-        label: Routing & Switching
-      - type: Label
         label: Firewall & Security Management
-      - type: Label
-        label: Server Administration
       - type: Label
         label: Virtualization & Cloud Services
       - type: Label
         label: Network Monitoring & Troubleshooting
       - type: Label
         label: Automation & Scripting
-      - type: Label
-        label: Problem-Solving & Collaboration
+    title: ''
+    styles:
+      self:
+        width: wide
   - type: DividerSection
     styles:
       self:
@@ -209,10 +219,34 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: >+
+          **Sundance Institute**
+
+
+          **Dec. 2025 – Present**
+
+
+          Junior Network Administrator
+
+
+          *   Oversee the rapid deployment and management of mission-critical
+          network infrastructure for the 2026 Sundance Film Festival, ensuring
+          high availability for venue operations.
+
+          *   Plan and install TCP/IP LAN/WAN and Wi-Fi infrastructure across
+          multiple temporary venues, including the configuration of switches,
+          routers, and access points.
+
+          *   Provide Tier 2 network troubleshooting to resolve connectivity
+          issues and maintain uptime in a high-pressure, live-event environment.
+
+          *   Support edge devices and box office systems while maintaining
+          detailed network documentation and enforcing security policies.
+
+
           **ADT Security**
 
 
-          **Apr. 2025 – Present**
+          **Apr. 2025 – Nov. 2025**
 
 
           IT Depot Technician
@@ -308,7 +342,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: >+
+        text: >
           **Utah Valley University**
 
 
@@ -329,16 +363,6 @@ sections:
 
 
           **Aug. 2020 - May 2022**
-
-
-          ****
-
-
-          CompTIA Network+ Certification (In Progress)
-
-
-          CompTIA Security+ Certification (In Progress)
-
         styles:
           self:
             textAlign: left
