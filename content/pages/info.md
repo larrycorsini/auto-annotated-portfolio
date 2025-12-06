@@ -170,6 +170,9 @@ sections:
       - type: Label
         label: Automation & Scripting
     title: Network Administration
+    styles:
+      self:
+        width: wide
   - type: DividerSection
     styles:
       self:
