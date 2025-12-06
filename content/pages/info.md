@@ -68,7 +68,7 @@ sections:
         url: >-
           https://assets.stackbit.com/components/images/default/default-image.png
         altText: Sundance Institute
-        caption: Caption of the image
+        caption: Sundance Institute
         elementId: ''
     spacing: 3
     columns: 5
