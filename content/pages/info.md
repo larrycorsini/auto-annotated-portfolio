@@ -174,6 +174,9 @@ sections:
       - type: Label
         label: OPNsense / Firewalls
         url: ''
+      - type: Label
+        label: Python & Automation
+        url: ''
     title: ''
     styles:
       self:
