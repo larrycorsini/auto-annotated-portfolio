@@ -10,10 +10,13 @@ sections:
       href="https\://docs.google.com/document/d/1r5iTEUh1yH7\_5LLFVVpINVvuYnWxt2r1/preview?tab=t.0"
       target="\_blank"><img src="/images/resumessnip.png" alt="Resume"/></a>
 
+      Click image above to view my full resume
 
-      <i></i><a
+
+
+      <i>Click here</i><a
       href="https\://docs.google.com/document/d/1r5iTEUh1yH7\_5LLFVVpINVvuYnWxt2r1/export?format=pdf"
-      target="\_blank"><strong>r </strong></a>
+      target="\_blank"><strong></strong></a> to download now
 
     actions: []
     colors: colors-b
