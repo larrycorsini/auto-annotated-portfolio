@@ -169,7 +169,7 @@ sections:
         label: Network Monitoring & Troubleshooting
       - type: Label
         label: Automation & Scripting
-    title: ''
+    title: Network Administration
     styles:
       self:
         width: wide
