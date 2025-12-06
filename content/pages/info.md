@@ -166,6 +166,9 @@ sections:
         label: Wireless Networking
         url: ''
       - type: Label
+        label: TCP/IP & DNS
+        url: ''
+      - type: Label
         label: Networking Protocols & Infrastructure
       - type: Label
         label: Firewall & Security Management
@@ -175,9 +178,6 @@ sections:
         label: Network Monitoring & Troubleshooting
       - type: Label
         label: Automation & Scripting
-      - type: Label
-        label: TCP/IP & DNS
-        url: ''
     title: ''
     styles:
       self:
