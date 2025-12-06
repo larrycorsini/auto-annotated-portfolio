@@ -162,8 +162,6 @@ sections:
       - type: Label
         label: Networking Protocols & Infrastructure
       - type: Label
-        label: Routing & Switching
-      - type: Label
         label: Firewall & Security Management
       - type: Label
         label: Server Administration
