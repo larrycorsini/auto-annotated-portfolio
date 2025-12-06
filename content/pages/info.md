@@ -163,6 +163,9 @@ sections:
         label: Network Administration
         url: ''
       - type: Label
+        label: Wireless Networking
+        url: ''
+      - type: Label
         label: Networking Protocols & Infrastructure
       - type: Label
         label: Firewall & Security Management
@@ -172,9 +175,6 @@ sections:
         label: Network Monitoring & Troubleshooting
       - type: Label
         label: Automation & Scripting
-      - type: Label
-        label: Wireless Networking
-        url: ''
     title: ''
     styles:
       self:
