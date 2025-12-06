@@ -172,6 +172,9 @@ sections:
       - type: Label
         label: Network Administration
         url: ''
+      - type: Label
+        label: Wireless Networking
+        url: ''
     title: ''
     styles:
       self:
