@@ -177,6 +177,9 @@ sections:
       - type: Label
         label: Python & Automation
         url: ''
+      - type: Label
+        label: Active Directory
+        url: ''
     title: ''
     styles:
       self:
