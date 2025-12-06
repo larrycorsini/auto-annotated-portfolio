@@ -169,6 +169,9 @@ sections:
         label: Network Monitoring & Troubleshooting
       - type: Label
         label: Automation & Scripting
+      - type: Label
+        label: Network Administration
+        url: ''
     title: ''
     styles:
       self:
