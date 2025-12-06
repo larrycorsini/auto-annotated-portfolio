@@ -178,6 +178,9 @@ sections:
         label: Network Monitoring & Troubleshooting
       - type: Label
         label: Automation & Scripting
+      - type: Label
+        label: Proxmox VE
+        url: ''
     title: ''
     styles:
       self:
