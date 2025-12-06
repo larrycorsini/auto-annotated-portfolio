@@ -173,8 +173,6 @@ sections:
         label: Network Monitoring & Troubleshooting
       - type: Label
         label: Automation & Scripting
-      - type: Label
-        label: Problem-Solving & Collaboration
     title: Network Administration
   - type: DividerSection
     styles:
