@@ -6,13 +6,15 @@ sections:
   - elementId: ''
     colors: colors-e
     backgroundSize: inset
-    text: >
-      # Hey, I'm a Network Administrator currently managing mission-critical
-      infrastructure for the Sundance Institute. I hold a B.Sc. in IT (Network
-      Admin & Security) and have hands-on experience in virtualization, network
-      design, and security via Proxmox VE and OPNsense homelabs. Skilled in
-      Python automation, troubleshooting, and team leadership. Fluent in English
-      and Spanish.
+    text: >+
+      # Currently managing mission-critical infrastructure for the Sundance
+      Institute. I specialize in network security, virtualization, and
+      automation using tools like Proxmox VE and Python.
+
+
+
+
+
     media:
       type: ImageBlock
       altText: Larry Corsini pic
