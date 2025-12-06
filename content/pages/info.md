@@ -50,15 +50,15 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        url: /images/ADT-Logo-2007.png
-        altText: ADT
-        caption: ADT Security
-        elementId: ''
-      - type: ImageBlock
         altText: Sundance Institute
         caption: Sundance Institute
         elementId: ''
         url: /images/Sundance_Institute_logo.svg.png
+      - type: ImageBlock
+        url: /images/ADT-Logo-2007.png
+        altText: ADT
+        caption: ADT Security
+        elementId: ''
       - type: ImageBlock
         url: /images/helpcloudlogo.png
         altText: HelpCloud image
