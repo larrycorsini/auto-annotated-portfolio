@@ -157,7 +157,7 @@ sections:
         borderStyle: solid
   - type: LabelsSection
     colors: colors-f
-    subtitle: Wireless Networking
+    subtitle: 'Skills:'
     items:
       - type: Label
         label: Networking Protocols & Infrastructure
