@@ -68,6 +68,7 @@ sections:
         altText: Sundance Institute
         caption: Sundance Institute
         elementId: ''
+        url: /images/Sundance_Institute_logo.svg.png
     spacing: 3
     columns: 5
     aspectRatio: auto
