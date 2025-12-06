@@ -164,8 +164,6 @@ sections:
       - type: Label
         label: Firewall & Security Management
       - type: Label
-        label: Server Administration
-      - type: Label
         label: Virtualization & Cloud Services
       - type: Label
         label: Network Monitoring & Troubleshooting
