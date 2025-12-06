@@ -181,6 +181,9 @@ sections:
         label: Network Monitoring & Troubleshooting
       - type: Label
         label: Automation & Scripting
+      - type: Label
+        label: OPNsense / Firewalls
+        url: ''
     title: ''
     styles:
       self:
