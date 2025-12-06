@@ -55,6 +55,11 @@ sections:
         caption: ADT Security
         elementId: ''
       - type: ImageBlock
+        altText: Sundance Institute
+        caption: Sundance Institute
+        elementId: ''
+        url: /images/Sundance_Institute_logo.svg.png
+      - type: ImageBlock
         url: /images/helpcloudlogo.png
         altText: HelpCloud image
         caption: HelpCloud
@@ -64,11 +69,6 @@ sections:
         altText: Natures Sunshine
         caption: Natures Sunshine
         elementId: ''
-      - type: ImageBlock
-        altText: Sundance Institute
-        caption: Sundance Institute
-        elementId: ''
-        url: /images/Sundance_Institute_logo.svg.png
     spacing: 3
     columns: 5
     aspectRatio: auto
