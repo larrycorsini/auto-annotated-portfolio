@@ -61,7 +61,7 @@ sections:
           name: message
           label: Type your message here...
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Type your message here...
           width: full
           isRequired: true
       submitLabel: Send Message
