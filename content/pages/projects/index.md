@@ -79,7 +79,7 @@ bottomSections:
           textAlign: center
     colors: colors-f
     backgroundSize: full
-    elementId: ''
+    elementId: contact
     styles:
       self:
         height: auto
