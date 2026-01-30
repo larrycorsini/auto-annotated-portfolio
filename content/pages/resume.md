@@ -13,17 +13,9 @@ sections:
       alt="Resume"/></a>
 
 
-      <i>Click image above to view my full resume</i>
-
-      <br/>
-
-      <br/>
-
-      <a
+      <i>Click image above to view my full resume</i> <br/> <br/> <a
       href="https://docs.google.com/document/d/1r5iTEUh1yH7_5LLFVVpINVvuYnWxt2r1/export?format=pdf"
       target="\_blank"><strong>Click here to download now</strong></a>
-
-      https://docs.google.com/document/d/1r5iTEUh1yH7_5LLFVVpINVvuYnWxt2r1/edit?usp=sharing&ouid=110867465783915400562&rtpof=true&sd=true
     actions: []
     colors: colors-b
     backgroundSize: full
