@@ -145,7 +145,7 @@ sections:
           textAlign: center
     colors: colors-b
     backgroundSize: full
-    elementId: ''
+    elementId: contact
     styles:
       self:
         height: auto
