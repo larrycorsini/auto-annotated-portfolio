@@ -433,7 +433,7 @@ sections:
           textAlign: center
     colors: colors-a
     backgroundSize: full
-    elementId: ''
+    elementId: contact
     styles:
       self:
         height: auto
