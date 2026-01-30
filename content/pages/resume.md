@@ -5,9 +5,9 @@ sections:
   - type: HeroSection
     title: RESUME
     subtitle: ''
-    text: >
+    text: >-
       <a
-      href="https://docs.google.com/document/d/1r5iTEUh1yH7\_5LLFVVpINVvuYnWxt2r1/preview?tab=t.0"
+      href="https://docs.google.com/document/d/1r5iTEUh1yH7_5LLFVVpINVvuYnWxt2r1/preview?tab=t.0"
       target="\_blank"><img
       src="https://devserver-preview--larrycorsini.netlify.app/_static/app-assets/public/images/resumessnip.png"
       alt="Resume"/></a>
@@ -20,8 +20,10 @@ sections:
       <br/>
 
       <a
-      href="https://docs.google.com/document/d/1r5iTEUh1yH7\_5LLFVVpINVvuYnWxt2r1/export?format=pdf"
+      href="https://docs.google.com/document/d/1r5iTEUh1yH7_5LLFVVpINVvuYnWxt2r1/export?format=pdf"
       target="\_blank"><strong>Click here to download now</strong></a>
+
+      https://docs.google.com/document/d/1r5iTEUh1yH7_5LLFVVpINVvuYnWxt2r1/edit?usp=sharing&ouid=110867465783915400562&rtpof=true&sd=true
     actions: []
     colors: colors-b
     backgroundSize: full
