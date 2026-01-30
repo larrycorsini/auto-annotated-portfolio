@@ -5,7 +5,22 @@ sections:
   - type: HeroSection
     title: RESUME
     subtitle: ''
-    text: "<a\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ href=\"<https://docs.google.com/document/d/1r5iTEUh1yH7_5LLFVVpINVvuYnWxt2r1/preview?tab=t.0\"\_> \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ target=\"\\\\\\_blank\"><img\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_src=\"<https://devserver-main--larrycorsini.netlify.app/_static/app-assets/public/images/resumessnip.png\"\_> \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_alt=\"Resume\" /></a><i>Click image above to view my full resume</i><br /><br /><a\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ href=\"<https://docs.google.com/document/d/1r5iTEUh1yH7_5LLFVVpINVvuYnWxt2r1/export?format=pdf\"\_> \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ target=\"\\\\\\_blank\"><strong>Click here to download now</strong></a>\n"
+    text: >-
+      <a
+      href="https://docs.google.com/document/d/1r5iTEUh1yH7_5LLFVVpINVvuYnWxt2r1/preview?tab=t.0"
+      target="_blank">
+          <img src="/images/resumessnip.png" alt="Resume" />
+      </a>
+
+      <i>Click image above to view my full resume</i>
+
+      <br /><br />
+
+      <a
+      href="https://docs.google.com/document/d/1r5iTEUh1yH7_5LLFVVpINVvuYnWxt2r1/export?format=pdf"
+      target="_blank">
+          <strong>Click here to download now</strong>
+      </a>
     actions: []
     colors: colors-b
     backgroundSize: full
