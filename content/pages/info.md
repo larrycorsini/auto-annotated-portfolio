@@ -113,14 +113,6 @@ sections:
           self:
             textAlign: left
       - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/larry_leaper/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
         title: ''
         subtitle: ''
         text: ''
