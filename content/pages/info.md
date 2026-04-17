@@ -50,11 +50,6 @@ sections:
     subtitle: 'I worked with these folks:'
     images:
       - type: ImageBlock
-        altText: Sundance Institute
-        caption: Sundance Institute
-        elementId: ''
-        url: /images/Sundance_Institute_logo.svg.png
-      - type: ImageBlock
         url: /images/OracleLogo.png
         altText: Oracle
         caption: Oracle
@@ -64,6 +59,11 @@ sections:
         altText: ADT
         caption: ADT Security
         elementId: ''
+      - type: ImageBlock
+        altText: Sundance Institute
+        caption: Sundance Institute
+        elementId: ''
+        url: /images/Sundance_Institute_logo.svg.png
       - type: ImageBlock
         url: /images/helpcloudlogo.png
         altText: HelpCloud image
