@@ -73,7 +73,7 @@ sections:
         url: >-
           https://assets.stackbit.com/components/images/default/default-image.png
         altText: Oracle
-        caption: Caption of the image
+        caption: Oracle
         elementId: ''
     spacing: 3
     columns: 5
