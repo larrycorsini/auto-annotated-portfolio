@@ -15,13 +15,13 @@ sections:
     backgroundSize: full
     title: Network Administrator - aspiring cybersecurity expert & tech enthusiast
     subtitle: >-
-      – with a degree in IT (Network Administration & Security), I’ve gained
-      hands-on experience in virtualization, security, and system administration
-      through my personal and professional projects. I thrive on
-      problem-solving, optimizing networks, and building scalable systems. I’m
-      constantly learning and improving my skills in network infrastructure,
-      cybersecurity, and cloud technologies. Let's connect and explore
-      opportunities to collaborate!
+      – with a B.Sc. in IT (Network Administration & Security) and hands-on
+      experience in enterprise cloud infrastructure, virtualization, and
+      security, I thrive on solving complex problems and building reliable,
+      scalable systems. From data center operations to homelab experiments with
+      OPNsense and Proxmox VE, I'm constantly sharpening my skills in network
+      infrastructure, cybersecurity, and cloud technologies. Let's connect and
+      explore opportunities to collaborate!
     styles:
       self:
         height: auto
