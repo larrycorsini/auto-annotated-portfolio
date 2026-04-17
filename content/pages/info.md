@@ -55,6 +55,11 @@ sections:
         elementId: ''
         url: /images/Sundance_Institute_logo.svg.png
       - type: ImageBlock
+        url: /images/OracleLogo.png
+        altText: Oracle
+        caption: Oracle
+        elementId: ''
+      - type: ImageBlock
         url: /images/ADT-Logo-2007.png
         altText: ADT
         caption: ADT Security
@@ -68,11 +73,6 @@ sections:
         url: /images/NS-logo-primary-white.png
         altText: Natures Sunshine
         caption: Natures Sunshine
-        elementId: ''
-      - type: ImageBlock
-        url: /images/OracleLogo.png
-        altText: Oracle
-        caption: Oracle
         elementId: ''
     spacing: 3
     columns: 5
