@@ -6,11 +6,11 @@ sections:
   - elementId: ''
     colors: colors-e
     backgroundSize: inset
-    text: >+
-      ### Currently managing mission-critical infrastructure for the Sundance
-      Institute. I specialize in network security, virtualization, and
-      automation using tools like Proxmox VE and Python.
-
+    text: >
+      ### Currently administering enterprise server and network infrastructure
+      within a large-scale cloud environment. I specialize in network security,
+      virtualization, and automation using tools like Proxmox VE, OPNsense, and
+      Python.
     media:
       type: ImageBlock
       altText: Larry Corsini pic
